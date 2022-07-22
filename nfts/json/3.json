@@ -1,0 +1,39 @@
+{
+    "name": "Mohannad Saudi Bear NFT 3",
+    "description": "Mohannad Private Storage",
+    "image": "https://nft.mohannadotaibi.com/nfts/images/3.png",
+    "dna": "4a82592cf1af05918e507a72f6f8632096f497d5",
+    "edition": 1,
+    "date": 1658270405377,
+    "attributes": [
+        {
+        "trait_type": "Background",
+        "value": "Cream"
+        },
+        {
+        "trait_type": "Fur",
+        "value": "8"
+        },
+        {
+        "trait_type": "Clothes",
+        "value": "2"
+        },
+        {
+        "trait_type": "Eyes",
+        "value": "6"
+        },
+        {
+        "trait_type": "Head",
+        "value": "1"
+        },
+        {
+        "trait_type": "Mouth",
+        "value": "18"
+        },
+        {
+        "trait_type": "Glasses",
+        "value": "2"
+        }
+        ],
+        "compiler": "HashLips Art Engine"
+        }

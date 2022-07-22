@@ -1,0 +1,38 @@
+{
+    "name": "Mohannad Saudi Bored Ape NFT 4",
+    "description": "Mohannad Private Storage",
+    "image": "https://nft.mohannadotaibi.com/nfts/images/7.png",
+    "dna": "4a82592cf1af05918e507a72f6f8632096f497d7",
+    "edition": 1,
+    "date": 1658270405377,
+    "attributes": [
+        {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+        },
+        {
+        "trait_type": "Fur",
+        "value": "Tan"
+        },
+        {
+        "trait_type": "Eyes",
+        "value": "Robot"
+        },
+        {
+        "trait_type": "Clothes",
+        "value": "Clothes 02"
+        },
+        {
+        "trait_type": "Hat",
+        "value": "Hat 10"
+        },
+        {
+        "trait_type": "Earring",
+        "value": "Silver Hoop"
+        },
+        {
+        "trait_type": "Mouth",
+        "value": "Bored"
+        }
+        ]
+     }
