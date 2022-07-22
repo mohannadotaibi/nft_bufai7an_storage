@@ -1,0 +1,8 @@
+{
+    "name": "Mohannad NFT Contract",
+    "description": "A method for Mohannad to do this thing",
+    "image": "https://nft.mohannadotaibi.com/nfts/1.png",
+    "external_link": "https://mohannadotaibi.com",
+    "seller_fee_basis_points": 750,
+    "fee_recipient": "0x967ba439294c8c511cadc8f560aecddc2ef4cd01"
+    }
